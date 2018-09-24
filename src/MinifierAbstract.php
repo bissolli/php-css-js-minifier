@@ -168,7 +168,7 @@ abstract class MinifierAbstract
     {
         $this->createFile($outputFile, $this->cssMinified);
 
-        return $this;
+        return $outputFile;
     }
 
     /**
@@ -182,7 +182,7 @@ abstract class MinifierAbstract
     {
         $this->createFile($outputFile, $this->jsMinified);
 
-        return $this;
+        return $outputFile;
     }
 
     /**
