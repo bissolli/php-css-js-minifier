@@ -1,3 +1,5 @@
 /.idea/
 /examples/*.js
 /examples/*.css
+/vendor
+.DS_STORE
