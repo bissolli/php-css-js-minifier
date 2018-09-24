@@ -1,0 +1,25 @@
+{
+    "name": "bissolli/php-css-js-minifier",
+    "description": "A PHP Class to minify CSS and JavaScript files.",
+    "keywords": [ "minify", "minifier", "laravel", "javascript", "css" ],
+    "type": "library",
+    "homepage": "https://github.com/bissolli/php-css-js-minifier",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo Bissolli",
+            "email": "gustavo.bissolli@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bissolli\\PhpMinifier\\": "src/"
+        }
+    }
+}
