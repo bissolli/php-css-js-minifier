@@ -5,9 +5,7 @@
 [![Total Downloads](https://poser.pugx.org/bissolli/php-css-js-minifier/downloads)](https://packagist.org/packages/bissolli/php-css-js-minifier)
 [![License](https://poser.pugx.org/bissolli/php-css-js-minifier/license)](https://packagist.org/packages/bissolli/php-css-js-minifier)
 
-Composer package to merge and minify a list of Js and Css files. 
-
-Twitter PHP Scrapper. Get account information, tweets, likes, re-tweets and comments through the Twitter handle.
+Composer package to merge and minify a list of Js and Css files.
 
 ## Installation
 
@@ -70,3 +68,6 @@ $output = $minifier->minifyJs()->outputJs('./app.min.js');
 ## License
 Released under the [MIT license](http://www.opensource.org/licenses/MIT)
 
+## Thanks
+ - [CSS Minifier](https://cssminifier.com/raw)
+ - [JavaScript Minifier](https://javascript-minifier.com/raw)
