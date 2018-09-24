@@ -69,5 +69,5 @@ $output = $minifier->minifyJs()->outputJs('./app.min.js');
 Released under the [MIT license](http://www.opensource.org/licenses/MIT)
 
 ## Thanks
- - [CSS Minifier](https://cssminifier.com/raw)
- - [JavaScript Minifier](https://javascript-minifier.com/raw)
+ - [CSS Minifier](https://cssminifier.com)
+ - [JavaScript Minifier](https://javascript-minifier.com)
