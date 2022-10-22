@@ -9,12 +9,12 @@ class Minifier extends MinifierAbstract
      *
      * @var String
      */
-    protected $cssServiceLink = 'https://cssminifier.com/raw';
+    protected $cssServiceLink = 'https://www.toptal.com/developers/cssminifier/api/raw';
 
     /**
      * Service link to get the minified JS files
      *
      * @var String
      */
-    protected $jsServiceLink = 'https://javascript-minifier.com/raw';
+    protected $jsServiceLink = 'https://www.toptal.com/developers/javascript-minifier/api/raw';
 }
